@@ -1,0 +1,121 @@
+---
+title: "Hello Community"
+subtitle: "RStatsNYC 2024"
+author: "Daniel Chen"
+format:
+  revealjs:
+    theme: simple
+
+editor:
+  render-on-save: true
+---
+
+## Daniel Chen {.center}
+
+<!-- inicio font awesome -->
+
+```{=html}
+<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"> <!-- final font awesome -->
+
+
+::: columns
+::: {.column width="40%"}
+<center>
+
+<a href='mailto:chendaniely@gmail.com'>
+  <i class="far fa-envelope"></i>
+</a>
+<a href='https://twitter.com/chendaniely'>
+  <i class="fab fa-twitter"></i>
+  <a href='https://mastodon.social/@chendaniely'>
+  <i class="fab fa-mastodon"></i>
+  <a href='https://github.com/chendaniely'>
+  <i class="fab fa-github"></i>
+</a>
+<a href='mailto:chendaniely@gmail.com'>
+<i class="far fa-bluesky"></i></a>
+@chendaniely
+
+<img src="img/daniel.jpg" alt="Daniel Chen" style="border-radius: 60%; max-width: 100%;"/>
+
+</center>
+:::
+
+::: {.column width="60%"}
+-   Postdoctoral Research and Teaching Fellow <br>
+    UBC, MDS-Vancouver
+
+-   Data Science Educator<br>
+    Posit, PBC
+
+-   Author, [Pandas for Everyone 2e](https://www.pearson.com/en-us/subject-catalog/p/pandas-for-everyone-python-data-analysis/P200000007264/9780137891153)
+:::
+:::
+
+## 10 Years of the conference
+
+### [Interactive Ebola Plots in Shiny](https://www.youtube.com/watch?v=oPCIqDagGSk)
+
+![](img/daniel_first_talk.png)
+
+## The R Meetup
+
+:::::: columns
+::: {.column width="50%"}
+
+![](img/data_mafia_tshirt.webp)
+
+:::
+
+::: {.column width="50%"}
+
+![](img/nyosp-meetup-image.webp)
+
+<img src="img/rconf-logo.png" width="300">
+
+:::
+
+::::::
+
+## Thank you to the community
+
+- Met 100s of folks over the years
+- Helped me transition as I moved between cities
+- Learned how to present and talk
+- Opened many doors of opportunity
+
+## You get what you put in
+
+![](img/profit.jpg)
+
+## Next block of speakers...
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+![](img/spearker-McKinney-Wes.jpg)
+
+Wes McKinney
+
+:::
+
+::: {.column width="33%"}
+
+![](img/speaker-Kuhn_Max1.jpg)
+
+Max Kuhn
+
+:::
+
+::: {.column width="33%"}
+
+![](img/speaker-Mason-Hilary.jpg)
+
+Hilary Mason
+
+:::
+
+::::
